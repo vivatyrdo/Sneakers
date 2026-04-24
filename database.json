@@ -3,13 +3,15 @@
     "id": "101",
     "name": "Travis Scott x Air Jordan 1 Low",
     "desc": "Самый громкий релиз года. Обратный свуш, премиальная замша и идеальная детализация.",
-    "price": 2500,
+    "price": 1500,
     "currency": "руб",
-    "sizes":[40, 41, 42, 43, 44],
+    "sizes":[31, 32, 33, 34, 35, 36],
     "badge": "🔥 Хит",
     "photos":[
-      "https://images.unsplash.com/photo-1620012253295-c15ce3e712e1?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=1000&auto=format&fit=crop"
+      "https://i.ibb.co.com/zVxtTBXM/photo-2026-04-23-16-50-05.jpg",
+      "https://i.ibb.co.com/7tGwkRPq/photo-2026-04-23-16-50-04.jpg",
+      "https://i.ibb.co.com/XZ8pJKbC/photo-2026-04-23-16-49-59.jpg",
+      "https://i.ibb.co.com/BVh6266z/photo-2026-04-23-16-50-01.jpg"
     ]
   },
   "featured_2": {
