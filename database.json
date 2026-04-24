@@ -1,0 +1,69 @@
+{
+  "featured_1": {
+    "id": "101",
+    "name": "Travis Scott x Air Jordan 1 Low",
+    "desc": "Самый громкий релиз года. Обратный свуш, премиальная замша и идеальная детализация.",
+    "price": 2500,
+    "currency": "руб",
+    "sizes":[40, 41, 42, 43, 44],
+    "badge": "🔥 Хит",
+    "photos":[
+      "https://images.unsplash.com/photo-1620012253295-c15ce3e712e1?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=1000&auto=format&fit=crop"
+    ]
+  },
+  "featured_2": {
+    "id": "102",
+    "name": "Yeezy Boost 700 Wave Runner",
+    "desc": "Легендарный силуэт Канье. Массивная подошва, рефлективные вставки. В наличии всего несколько пар.",
+    "price": 3200,
+    "currency": "руб",
+    "sizes": [39, 40, 41],
+    "badge": "⚡ Limited",
+    "photos":[
+      "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1000&auto=format&fit=crop"
+    ]
+  },
+  "catalog":[
+    {
+      "id": "1",
+      "name": "Nike Dunk Low Panda",
+      "desc": "Абсолютная классика. Черно-белая расцветка, которая подходит под любой лук.",
+      "price": 1500,
+      "currency": "руб",
+      "sizes":[37, 38, 39, 40, 41, 42],
+      "onSale": true,
+      "photos":[
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1552346154-21d32810baa3?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "New Balance 2002R Protection Pack",
+      "desc": "Рваные края замши, винтажная эстетика и нереальный комфорт на каждый день.",
+      "price": 1800,
+      "currency": "руб",
+      "sizes":[39, 40, 41, 42, 43],
+      "onSale": false,
+      "photos":[
+        "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=800&auto=format&fit=crop"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Air Jordan 4 Retro Military Black",
+      "desc": "Один из самых востребованных силуэтов в строгой черно-белой расцветке.",
+      "price": 2100,
+      "currency": "руб",
+      "sizes":[40, 41, 42, 43, 44],
+      "onSale": true,
+      "photos":[
+        "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=800&auto=format&fit=crop"
+      ]
+    }
+  ]
+}
