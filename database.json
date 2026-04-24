@@ -1,7 +1,7 @@
 {
   "featured_1": {
     "id": "101",
-    "name": "Travis Scott x Air Jordan 1 Low",
+    "name": "Fashion A 108",
     "desc": "Самый громкий релиз года. Обратный свуш, премиальная замша и идеальная детализация.",
     "price": 1500,
     "currency": "руб",
@@ -16,55 +16,126 @@
   },
   "featured_2": {
     "id": "102",
-    "name": "Yeezy Boost 700 Wave Runner",
-    "desc": "Легендарный силуэт Канье. Массивная подошва, рефлективные вставки. В наличии всего несколько пар.",
-    "price": 3200,
+    "name": "Channel YM-5",
+    "desc": "Легендарные шаннель. Массивная подошва, рефлективные вставки. В наличии всего несколько пар.",
+    "price": 1500,
     "currency": "руб",
-    "sizes": [39, 40, 41],
+    "sizes": [31, 32, 33, 34, 35, 36],
     "badge": "⚡ Limited",
     "photos":[
-      "https://images.unsplash.com/photo-1514989940723-e8e51635b782?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=1000&auto=format&fit=crop"
+      "https://i.ibb.co.com/TqHQ8KF6/photo-2026-04-22-11-48-29.jpg",
+      "https://i.ibb.co.com/0Rh1ts8m/photo-2026-04-22-11-48-28.jpg",
+      "https://i.ibb.co.com/84DxwNbc/photo-2026-04-22-11-48-30.jpg",
+      "https://i.ibb.co.com/DfYZtGfW/photo-2026-04-22-11-48-25.jpg",
+      "https://i.ibb.co.com/Yx9GMHp/photo-2026-04-22-11-48-32.jpg",
+      "https://i.ibb.co.com/S7nVMCGk/photo-2026-04-22-11-48-31.jpg",
+      "https://i.ibb.co.com/5PpDgWb/photo-2026-04-22-11-48-27.jpg"
     ]
   },
   "catalog":[
     {
       "id": "1",
-      "name": "Nike Dunk Low Panda",
-      "desc": "Абсолютная классика. Черно-белая расцветка, которая подходит под любой лук.",
+      "name": "Fashon B 315",
+      "desc": "Абсолютная классика. Светлая расцветка, которая подходит под любой лук и вписывается в окружение города.",
       "price": 1500,
       "currency": "руб",
-      "sizes":[37, 38, 39, 40, 41, 42],
+      "sizes": [31, 32, 33, 34, 35, 36],
       "onSale": true,
       "photos":[
-        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1552346154-21d32810baa3?q=80&w=800&auto=format&fit=crop"
+        "https://i.ibb.co.com/GvpGyLd9/photo-2026-04-22-11-48-23.jpg",
+        "https://i.ibb.co.com/Kxskm40f/photo-2026-04-22-11-48-20.jpg",
+        "https://i.ibb.co.com/m5RpyFkw/photo-2026-04-22-11-48-16.jpg",
+        "https://i.ibb.co.com/0p0MxCFv/photo-2026-04-22-11-48-18.jpg",
+        "https://i.ibb.co.com/ZzkhmFGK/photo-2026-04-22-11-48-24.jpg"
       ]
     },
     {
       "id": "2",
-      "name": "New Balance 2002R Protection Pack",
-      "desc": "Рваные края замши, винтажная эстетика и нереальный комфорт на каждый день.",
-      "price": 1800,
+      "name": "Fashion M1",
+      "desc": "Белые и элегантные, эстетика и нереальный комфорт на каждый день.",
+      "price": 1500,
       "currency": "руб",
-      "sizes":[39, 40, 41, 42, 43],
+      "sizes":[31, 32, 33, 34, 35, 36],
       "onSale": false,
       "photos":[
-        "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?q=80&w=800&auto=format&fit=crop"
+        "https://i.ibb.co.com/N6BhyKjj/photo-2026-04-22-11-48-13.jpg",
+        "https://i.ibb.co.com/t0zGm5z/photo-2026-04-22-11-48-14.jpg",
+        "https://i.ibb.co.com/whyjj3sn/photo-2026-04-22-11-48-08.jpg",
+        "https://i.ibb.co.com/tM4jNQdX/photo-2026-04-22-11-48-10.jpg",
+        "https://i.ibb.co.com/vxnyzLg4/photo-2026-04-22-11-48-05.jpg",
+        "https://i.ibb.co.com/rPSB902/photo-2026-04-22-11-48-01.jpg",
+        "https://i.ibb.co.com/0pdRxQP7/photo-2026-04-22-11-47-58.jpg",
+        "https://i.ibb.co.com/nqwk96wg/photo-2026-04-22-11-47-56.jpg",
+        "https://i.ibb.co.com/VpYxZdrr/photo-2026-04-22-11-47-54.jpg"
       ]
     },
     {
       "id": "3",
-      "name": "Air Jordan 4 Retro Military Black",
-      "desc": "Один из самых востребованных силуэтов в строгой черно-белой расцветке.",
-      "price": 2100,
+      "name": "Addidas Sport",
+      "desc": "Один из самых востребованных силуэтов, идеально подходит для активной жизни.",
+      "price": 1500,
       "currency": "руб",
-      "sizes":[40, 41, 42, 43, 44],
+      "sizes":[31, 32, 33, 34, 35, 36],
       "onSale": true,
       "photos":[
-        "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?q=80&w=800&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1605348532760-6753d2c43329?q=80&w=800&auto=format&fit=crop"
+        "https://i.ibb.co.com/Xrp9cSxK/photo-2026-04-22-10-48-05.jpg",
+        "https://i.ibb.co.com/ZpVDFKKP/photo-2026-04-22-10-48-05-2.jpg",
+        "https://i.ibb.co.com/pBnx2jx6/photo-2026-04-22-10-48-08.jpg",
+        "https://i.ibb.co.com/Q7bkyPYM/photo-2026-04-22-10-48-08-2.jpg",
+        "https://i.ibb.co.com/gZmRT46Y/photo-2026-04-22-10-48-07.jpg",
+        "https://i.ibb.co.com/1YQRZM71/photo-2026-04-22-10-48-06.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nike",
+      "desc": "Легендарная пара в бирюзовом исполнении, держит ногу и идеально подходит под спортивный наряд",
+      "price": 1500,
+      "currency": "руб",
+      "sizes":[31, 32, 33, 34, 35, 36],
+      "onSale": false,
+      "photos":[
+        "https://i.ibb.co.com/zhfb2xPv/photo-2026-04-22-10-41-35.jpg",
+        "https://i.ibb.co.com/99pP3ZtW/photo-2026-04-22-10-41-36.jpg",
+        "https://i.ibb.co.com/BK47QfBx/photo-2026-04-22-10-41-34.jpg",
+        "https://i.ibb.co.com/Y7R636bs/photo-2026-04-22-10-41-33.jpg",
+        "https://i.ibb.co.com/6JLfMmvw/photo-2026-04-22-10-41-32.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "DC Shoes",
+      "desc": "Классическая спортивная пара, позволяет расскрыться как спортивным возможностям, так и чувству стиля",
+      "price": 1500,
+      "currency": "руб",
+      "sizes":[31, 32, 33, 34, 35, 36],
+      "onSale": false,
+      "photos":[
+        "https://i.ibb.co.com/htTJM87/photo-2026-04-21-13-27-39-2.jpg",
+        "https://i.ibb.co.com/jZ15KRXQ/photo-2026-04-21-13-27-39.jpg",
+        "https://i.ibb.co.com/tpRKTpm4/photo-2026-04-21-13-27-38.jpg",
+        "https://i.ibb.co.com/wZvh70Pt/photo-2026-04-21-13-27-36.jpg",
+        "https://i.ibb.co.com/CpFJ2NzR/photo-2026-04-21-13-27-37.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nike Shot-4",
+      "desc": "Модель обеспечит не только комфорт приспортивных занятиях, но так же сохранит стопы и в обычные будни",
+      "price": 1500,
+      "currency": "руб",
+      "sizes":[31, 32, 33, 34, 35, 36],
+      "onSale": false,
+      "photos":[
+        "https://i.ibb.co.com/6R7srNNX/photo-2026-04-21-13-21-44-2.jpg",
+        "https://i.ibb.co.com/MD2FLjR6/photo-2026-04-21-13-21-44.jpg",
+        "https://i.ibb.co.com/60CCPPW1/photo-2026-04-21-13-21-43.jpg",
+        "https://i.ibb.co.com/SG1rdmT/photo-2026-04-21-13-21-42.jpg",
+        "https://i.ibb.co.com/HpDKDBp4/photo-2026-04-21-13-21-41-2.jpg",
+        "https://i.ibb.co.com/Z1h73M4c/photo-2026-04-21-13-21-41.jpg",
+        "https://i.ibb.co.com/C5BFQT4x/photo-2026-04-21-13-21-40.jpg",
+        "https://i.ibb.co.com/cc56Vk89/photo-2026-04-21-13-21-38.jpg",
+        "https://i.ibb.co.com/HDSfZmpr/photo-2026-04-21-13-21-36.jpg"
       ]
     }
   ]
