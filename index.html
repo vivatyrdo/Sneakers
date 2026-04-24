@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>KICKS.SHOP — Premium Sneakers</title>
+  <!-- Шрифты: Bebas для заголовков, Inter для текста -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Навигация -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="#" class="logo">KICKS<span>.</span></a>
+      <a href="#catalog" class="nav-btn">Смотреть дропы</a>
+    </div>
+  </header>
+
+  <main>
+    <!-- Главный экран -->
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Коллекция 2026</p>
+        <h1 class="hero-title">ТВОЙ<br><span>СТИЛЬ</span><br>ЗДЕСЬ.</h1>
+        <p class="hero-subtitle">Оригинальное качество без переплат за бренд. Лучшие силуэты, детализированные до мелочей.</p>
+        <div class="hero-actions">
+          <a href="#catalog" class="btn btn-primary">В каталог</a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop" alt="Hero Sneaker">
+      </div>
+    </section>
+
+    <!-- Бегущая строка -->
+    <div class="marquee-wrapper">
+      <div class="marquee">
+        <span>🔥 1:1 ORIGINAL QUALITY</span>
+        <span>•</span>
+        <span>WORLDWIDE VIBE</span>
+        <span>•</span>
+        <span>SECURE DELIVERY</span>
+        <span>•</span>
+        <span>🔥 1:1 ORIGINAL QUALITY</span>
+        <span>•</span>
+        <span>WORLDWIDE VIBE</span>
+        <span>•</span>
+        <span>SECURE DELIVERY</span>
+        <span>•</span>
+      </div>
+    </div>
+
+    <!-- ОСОБЕННЫЙ БЛОК 1: Хит продаж (Светлый) -->
+    <section class="featured-section" id="featured-1">
+      <div class="container">
+        <div class="section-header">
+          <h2>Хит продаж</h2>
+          <p>Пара, которую забирают быстрее всего</p>
+        </div>
+        <div id="featuredBlock1"></div>
+      </div>
+    </section>
+
+    <!-- ОСОБЕННЫЙ БЛОК 2: Лимитированный дроп (Темный) -->
+    <section class="featured-section dark-mode" id="featured-2">
+      <div class="container">
+        <div class="section-header text-light">
+          <h2>Лимитированный дроп</h2>
+          <p>Доступно всего 10 пар. Только для своих.</p>
+        </div>
+        <div id="featuredBlock2"></div>
+      </div>
+    </section>
+
+    <!-- СЕТКА КАТАЛОГА -->
+    <section class="catalog-section" id="catalog">
+      <div class="container">
+        <div class="section-header">
+          <h2>Весь каталог</h2>
+          <p>Выбери свой силуэт и свайпай фото, чтобы рассмотреть детали</p>
+        </div>
+        <div class="cards-grid" id="cardsGrid">
+          <!-- Карточки генерируются JS -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- МОЩНЫЙ ФУТЕР -->
+  <!-- НОВЫЙ КОМПАКТНЫЙ ФУТЕР -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-logo">KICKS<span>.</span>SHOP</div>
+      <div class="footer-links">
+        <a href="https://t.me/shop333forever" target="_blank">Telegram</a>
+        <a href="#">Отзывы</a>
+        <a href="#">Доставка</a>
+      </div>
+      <p class="copyright">© 2026 KICKS.SHOP.</p>
+    </div>
+  </footer>
+
+  <!-- МОДАЛЬНОЕ ОКНО ДЛЯ ПРОСМОТРА ФОТО -->
+  <div id="image-modal" class="modal">
+    <button class="modal-close" id="modal-close">&times;</button>
+    <button class="modal-arrow prev" id="modal-prev">&#10094;</button>
+    <img id="modal-img" src="" alt="Zoomed">
+    <button class="modal-arrow next" id="modal-next">&#10095;</button>
+    <div class="modal-counter" id="modal-counter">1 / 1</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
